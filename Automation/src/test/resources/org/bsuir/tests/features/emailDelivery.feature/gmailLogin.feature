@@ -1,4 +1,3 @@
-@now 
 Feature: As a user I can login gmail 
 
 Scenario Outline: 
